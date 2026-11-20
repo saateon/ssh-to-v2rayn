@@ -3,6 +3,8 @@
 ابزار گرافیکی تک‌فایل برای افزودن، تست و حذف اتصال SSH در v2rayN.
 A single-file Windows GUI tool to add, test and remove SSH connections in v2rayN.
 
+![preview](preview.png)
+
 ## امکانات / Features
 - **Smart paste**: sing-box JSON, `ssh://user:pass@host:port#name`, `host:port:user:pass`, `ssh user@host -p 22`, and seller-style text (EN/FA). Multiple connections at once.
 - **Real connection test**: runs sing-box, opens a page through the SSH, and tells you OK + latency / unreachable / wrong password / no internet.
